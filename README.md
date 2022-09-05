@@ -1,0 +1,2 @@
+# VanishUI
+Permissions  vanish.cmd
